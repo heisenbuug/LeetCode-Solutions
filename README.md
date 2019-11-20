@@ -9,5 +9,5 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)| [C++](./Solutions/palindromeNumber.cpp)|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer)| [C++](./Solutions/romanToInteger.cpp)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C++](./Solutions/longestCommonPrefix.cpp)|
-|14|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./Solutions/validParentheses.cpp)|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./Solutions/validParentheses.cpp)|
 
