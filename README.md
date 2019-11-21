@@ -10,4 +10,4 @@
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer)| [C++](./Solutions/romanToInteger.cpp)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C++](./Solutions/longestCommonPrefix.cpp)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./Solutions/validParentheses.cpp)|
-|21|[Merge Two Sorted Linked List](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./Solutions/mergeTwoSortedLinkedList.cpp)|
+|21|[Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./Solutions/mergeTwoSortedLinkedLists.cpp)|
