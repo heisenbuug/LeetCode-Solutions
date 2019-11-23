@@ -3,7 +3,7 @@
 ### LeetCode Algorithms(https://leetcode.com/)
 
 |Sr. No.|#|Title|Solution|
-|---|---|---|
+|---|---|---|---|
 |1|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./Solutions/twoSum.cpp)|
 |2|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](./Solutions/reverseInteger.cpp)|
 |3|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)| [C++](./Solutions/palindromeNumber.cpp)|
