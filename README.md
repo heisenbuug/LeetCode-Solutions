@@ -12,3 +12,4 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./Solutions/validParentheses.cpp)|
 |21|[Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./Solutions/mergeTwoSortedLinkedLists.cpp)|
 |26|[Remove Duplicate From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./Solutions/removeDuplicateFromSortedArray.cpp)|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./Solutions/removeElement.cpp)|
