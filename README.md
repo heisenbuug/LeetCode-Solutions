@@ -15,3 +15,4 @@
 |9|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./Solutions/removeElement.cpp)|
 |10|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./Solutions/searchInsertPosition.cpp)|
 |11|66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./Solutions/plusOne.cpp)|
+|12|83|[Remove Duplicate From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./Solutions/removeDuplicateFromSortedList.cpp)|
